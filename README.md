@@ -41,7 +41,7 @@ Refer to the [blockchain readme](custom_block_chain.md) to follow the screenshot
 
 To successfully recreate the custom testnet blockchain and complete a testnet transaction with your own cryptowallet, the following installations and accounts are required:
 
-```
 [MyCrypto-Desktop-App](https://download.mycrypto.com) 
+
 [Ethereum-Tools](https://geth.ethereum.org/downloads/) under "Stable Releases" and Geth & Tools 1.9.7.
 
